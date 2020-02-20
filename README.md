@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-seed-app
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue-seed-app
+>>>>>>> 032e3036d5c41ac6d0d31e3f124261e7c172a46d
